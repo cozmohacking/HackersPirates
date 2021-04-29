@@ -1,0 +1,2 @@
+# HackersPirates
+DDoS Script
