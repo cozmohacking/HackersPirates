@@ -5,6 +5,6 @@ DDoS Script
 
 2 cd HackersPirates
 
-3= python2 packetflooder.py
+3= python2 hackerspirates.py
 
 knowledge is not a crime!
